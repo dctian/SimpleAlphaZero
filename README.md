@@ -4,7 +4,7 @@ A simplified implementation of DeepMind's AlphaZero (with Monte Carlo Tree Searc
 ## Implementation
 
 ### Connect 4 Board and Rules
- 
+Create a board
 
 ### Self Play
 
