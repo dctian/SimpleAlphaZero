@@ -7,7 +7,7 @@ A simplified implementation of DeepMind's AlphaZero (with Monte Carlo Tree Searc
 Create a board
 
 ### Self Play
-
+Use Monte Carlo Tree Search with self play
 
 ## References:
 - AlphaZero for Connect4 in PyTorch, Wee Tee Soh, April 2019 https://towardsdatascience.com/from-scratch-implementation-of-alphazero-for-connect4-f73d4554002a
