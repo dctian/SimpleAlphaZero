@@ -102,3 +102,16 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# video/picture files
+tmp/
+
+# pycharm
+.idea/
+
+# C++
+Debug/
+Release/
+.vs/
+
+
